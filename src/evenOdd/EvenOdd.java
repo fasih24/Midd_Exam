@@ -5,7 +5,7 @@ import java.util.Random;
 public class EvenOdd {
 public static void isEven(int x) {
 	
-		if(x%4==0) {
+		if(x%2==0) {
 			System.out.println(x+" is an even number" );
 		}
 		else {
