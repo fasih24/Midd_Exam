@@ -18,14 +18,14 @@ public class PrimeMethod {
 	public static void main(String[] args) {
 		int a; 
 		Scanner s=new Scanner(System.in);
-        System.out.println("enter an integer ");
+        System.out.println("enter an Integer ");
         a=s.nextInt();
         isPrime(a);
         if(isPrime(a)==true) {
-        	System.out.println("it is a prime number : "+a);
+        	System.out.println("it is a Prime number : "+a);
         }
         else {
-        	System.out.println("it is not a prime number : "+a);
+        	System.out.println("it is not a Prime number : "+a);
         }
 	}
 
