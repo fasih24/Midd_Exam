@@ -9,7 +9,7 @@ public class FutureInvestment {
 	}
 	}
 	public static void main(String[] args) {
-		double invest_amt=1000;
+		double invest_amt=500;
 		double interest=0.1;
 		double years=5;
 		double month=12;
